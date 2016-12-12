@@ -1,0 +1,4 @@
+		.ORIG x1200
+		TRAP x25
+		RTI
+		.END

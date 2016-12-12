@@ -1,0 +1,100 @@
+Memory content [0x4000..0x4001] :
+-------------------------------------
+  0x4000 (16384) : 0x0001
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 300
+PC           : 0x301e
+IR           : 0x0bfb
+STATE_NUMBER : 0x0000
+
+BUS          : 0x0000
+MDR          : 0x0bfb
+MAR          : 0x301c
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x005c
+1: 0x0039
+2: 0xc003
+3: 0x0011
+4: 0x0000
+5: 0x0000
+6: 0xfe00
+7: 0x0000
+
+Memory content [0x4000..0x4001] :
+-------------------------------------
+  0x4000 (16384) : 0x0002
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 530
+PC           : 0x3016
+IR           : 0x8000
+STATE_NUMBER : 0x002c
+
+BUS          : 0x3014
+MDR          : 0x8001
+MAR          : 0x3014
+CCs: N = 0  Z = 0  P = 1
+Registers:
+0: 0x005c
+1: 0x0039
+2: 0xc003
+3: 0x0011
+4: 0x0000
+5: 0x0000
+6: 0xfe00
+7: 0x0000
+
+
+Memory content [0x4000..0x4001] :
+-------------------------------------
+  0x4000 (16384) : 0x0002
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 1634
+PC           : 0x0000
+IR           : 0xf025
+STATE_NUMBER : 0x0012
+
+BUS          : 0x0000
+MDR          : 0x0000
+MAR          : 0x004a
+CCs: N = 0  Z = 1  P = 0
+Registers:
+0: 0x0052
+1: 0x0007
+2: 0x0000
+3: 0x0000
+4: 0x0000
+5: 0x0000
+6: 0x2ffc
+7: 0x1602
+
+Memory content [0x4000..0x4001] :
+-------------------------------------
+  0x4000 (16384) : 0x0002
+
+Current register/bus values :
+-------------------------------------
+Cycle Count  : 1590
+PC           : 0x0000
+IR           : 0xf025
+STATE_NUMBER : 0x0012
+
+BUS          : 0x0000
+MDR          : 0x0000
+MAR          : 0x004a
+CCs: N = 1  Z = 0  P = 0
+Registers:
+0: 0x0052
+1: 0x0007
+2: 0xc017
+3: 0x0000
+4: 0x0000
+5: 0x0000
+6: 0x2ffc
+7: 0x1a02

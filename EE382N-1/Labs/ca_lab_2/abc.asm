@@ -1,0 +1,5 @@
+	.ORIG x8000
+	JSR L1
+	HALT
+L1	RET
+	.END

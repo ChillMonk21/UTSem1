@@ -1,0 +1,23 @@
+Rendering to 768x768 image
+Loaded data for 100000 circles from snow.par
+Loaded scene with 100000 circles
+Loaded data for 100000 circles from snow.par
+Loaded scene with 100000 circles
+---------------------------------------------------------
+Initializing CUDA for CudaRenderer
+Found 1 CUDA devices
+Device 0: Tesla K20m
+   SMs:        13
+   Global mem: 4800 MB
+   CUDA Cap:   3.5
+---------------------------------------------------------
+
+Running benchmark, 1 frames, beginning at frame 0 ...
+Copying image data from device
+Mismatch detected at pixel [503][577], value = 0.626467, expected 0.751389 for color Red
+Mismatch detected at pixel [503][577], value = 0.652459, expected 0.772061 for color Green
+Mismatch detected at pixel [503][577], value = 0.684650, expected 0.797361 for color Blue
+Mismatch detected at pixel [503][578], value = 0.628736, expected 0.756261 for color Red
+Mismatch detected at pixel [503][578], value = 0.655376, expected 0.776703 for color Green
+Mismatch detected at pixel [503][578], value = 0.688773, expected 0.802091 for color Blue
+ERROR : Mismatch detected between reference and actual
